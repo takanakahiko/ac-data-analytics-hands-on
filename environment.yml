@@ -17,3 +17,4 @@ dependencies:
   - sympy
   - tensorflow
   - keras
+  - bs4
